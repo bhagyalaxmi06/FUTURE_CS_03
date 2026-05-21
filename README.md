@@ -1,2 +1,18 @@
-# FUTURE_CS_03
-API Security Risk Analysis project using Postman to test authentication, error handling, and API security mechanisms on the ReqRes public API.
+# API Security Risk Analysis
+
+## Objective
+Analyze API vulnerabilities using Postman.
+
+## Tools Used
+- Postman
+- ReqRes API
+- GitHub
+
+## Findings
+- Missing Authentication
+- Data Exposure
+- Missing Rate Limiting
+- Improper Error Handling
+
+## Conclusion
+The API requires better security mechanisms.
